@@ -12,7 +12,7 @@
 
 ## :drooling_face: 你的贡献
 
-##       Stark----->[2367765883/Hephaestus-terminal-management: ### A security tool for enterprise terminal management that named Hephaestus (github.com)](https://github.com/2367765883/Hephaestus-terminal-management)
+##       Star----->[2367765883/Hephaestus-terminal-management: ### A security tool for enterprise terminal management that named Hephaestus (github.com)](https://github.com/2367765883/Hephaestus-terminal-management)
 
 
 
@@ -324,9 +324,9 @@
 
 
 
-## :thinking: 讨论
+## 🤔 讨论
 
-#### 点击链接加入QQ频道【Hephaestus】：https://pd.qq.com/s/dvii76n34
+####    点击链接加入QQ频道【Hephaestus】：https://pd.qq.com/s/dvii76n34
 
 
 
