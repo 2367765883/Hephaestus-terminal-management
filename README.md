@@ -10,6 +10,16 @@
 
 
 
+## :drooling_face: 你的贡献
+
+##       Stark----->[2367765883/Hephaestus-terminal-management: ### A security tool for enterprise terminal management that named Hephaestus (github.com)](https://github.com/2367765883/Hephaestus-terminal-management)
+
+
+
+
+
+
+
 ## :eight_pointed_black_star: 特性
 
 - #### 基于Windows内核框架实现核心功能
@@ -19,6 +29,46 @@
 ## :yum: 兼容状态
 
 #### 支持Windows10 1909以上Windows 10 系统，但是需要注意，禁用调试功能由于使用硬编码（Windows 10 21H2）需要自行修改兼容
+
+### 
+
+## :dagger: 功能
+
+- ### 文件授权管理
+
+  ##### 文件冻结
+
+- ### 调试授权管理
+
+  ##### 禁用调试功能
+
+- ### 操作授权
+
+  ##### 禁用终端用户操作
+
+- ### 远程进程管理
+
+  ##### 进程列表
+
+  ##### 进程保护
+
+  ##### 强杀进程
+
+- ### 远程文件管理
+
+  ##### 文件列表
+
+  ##### 文件强删
+
+- ### 基于Yara的病毒查杀拦截
+
+- ### PE防火墙
+
+- ### 网络防火墙
+
+- ### 便携式设备拷贝数据保护
+
+  
 
 
 
