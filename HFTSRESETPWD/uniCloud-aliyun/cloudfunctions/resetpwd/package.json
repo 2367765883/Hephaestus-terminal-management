@@ -1,0 +1,15 @@
+{
+  "name": "chb-mysql-demo",
+  "version": "1.0.0",
+  "description": "云函数连接mysql示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsencrypt": "^3.3.2",
+    "mysql": "^2.18.1"
+  }
+}
