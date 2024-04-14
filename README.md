@@ -294,9 +294,9 @@
 
 ## :handshake: 鸣谢
 
-#### [YARA]([VirusTotal/yara: The pattern matching swiss knife (github.com)](https://github.com/VirusTotal/yara)):YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples.
+#### YARA([VirusTotal/yara: The pattern matching swiss knife (github.com)](https://github.com/VirusTotal/yara)):YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples.
 
 
 
-#### [InfinityHookPro-main]([[DearXiaoGui/InfinityHookPro-main (github.com)](https://github.com/DearXiaoGui/InfinityHookPro-main)):此项目基于 https://github.com/FiYHer/InfinityHookPro 原作者只支持虚拟机 在原作者的基础上新增了支持物理机 目前支持Win7-Win11 支持win11 任何版本
+#### InfinityHookPro-main([[DearXiaoGui/InfinityHookPro-main (github.com)](https://github.com/DearXiaoGui/InfinityHookPro-main)):此项目基于 https://github.com/FiYHer/InfinityHookPro 原作者只支持虚拟机 在原作者的基础上新增了支持物理机 目前支持Win7-Win11 支持win11 任何版本
 
